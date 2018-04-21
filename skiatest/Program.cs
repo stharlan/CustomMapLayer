@@ -7,6 +7,9 @@ using SkiaSharp;
 
 namespace skiatest
 {
+	
+	/* Strawman for skia graphics. */
+	
     class Program
     {
         static void Main(string[] args)
